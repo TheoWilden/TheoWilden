@@ -3,17 +3,18 @@ name: Update WakaTime Stats
 on:
   schedule:
     - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Get WakaTime Stats
-        uses: athul/waka-readme@v3
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
