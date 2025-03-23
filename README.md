@@ -12,10 +12,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=TheoWilden&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=TheoWilden&theme=discord_old_blurple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoWilden&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-# 📊 WakaTime Stats:
-
 <!--START_SECTION:waka-->
 
 ```txt
