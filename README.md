@@ -12,19 +12,15 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=TheoWilden&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=TheoWilden&theme=discord_old_blurple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoWilden&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-# 📊 WakaTime Stats:
-
 <!--START_SECTION:waka-->
 
 ```txt
 From: 15 March 2025 - To: 22 March 2025
 
-TypeScript   36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.27 %
-YAML         14 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.70 %
-Bash         5 mins          ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.45 %
-Markdown     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.58 %
+TypeScript   36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⡀⡀⡀⡀⡀⡀⡀⡀   64.27 %
+YAML         14 mins         ⣿⣿⣿⣿⣿⣿⣀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   24.70 %
+Bash         5 mins          ⣿⣿⣦⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   10.45 %
+Markdown     0 secs          ⣀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀   00.58 %
 ```
 
 <!--END_SECTION:waka-->
