@@ -15,11 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 mins
+Total Time: 0 secs
 
-HTML         11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄   96.41 %
-JSON         0 secs          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.90 %
-JavaScript   0 secs          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
