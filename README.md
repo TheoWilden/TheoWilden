@@ -15,10 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 19 mins
+Total Time: 0 secs
 
-Python     1 hr 19 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.56 %
-Markdown   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
